@@ -1,16 +1,9 @@
 # DirAttack
 
 <div style="display:flex !important;align-items:center !important">
-<img style="user-select: none" align="left" width="110" height="110" src="https://github.com/Ranginang67/DirAttack/blob/master/desktop/dirattack.png">
+
 DirAttack tools, Search file and directory on website,<br>open source tools available for Termux and Linux.<br>Easy to use!
 </div>
-
-<br />
-<br />
-<br />
-
-![1](https://github.com/Ranginang67/DirAttack/blob/master/desktop/ex_gif.gif)
-
 
 | options | Description                | example usage                                   |
 |---------|----------------------------|-------------------------------------------------|
@@ -26,7 +19,7 @@ DirAttack tools, Search file and directory on website,<br>open source tools avai
 **Linux**
 ```
 root@linux# apt-get install git python3 -y
-root@linux# git clone https://github.com/Ranginang67/DirAttack
+root@linux# git clone https://github.com/Transmetal/DirAttack-master
 root@linux# cd DirAttack
 root@linux# chmod 777 -R install.py
 root@linux# python3 install.py
@@ -40,13 +33,9 @@ Press super on your keyboard and search dirattack. or just type: 'dirattack --he
 **Termux**
 ```
 $ pkg install git python -y
-$ git clone https://github.com/Ranginang67/DirAttack
+$ git clone https://github.com/Transmetal/DirAttack-master
 $ cd DirAttack
 $ chmod +x install.py
 $ python3 install.py
 $ dirattack --help
 ```
-
-
-# support me
-<a href="https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ"><img src="https://img.shields.io/badge/subcribe-YouTube-red.svg">
